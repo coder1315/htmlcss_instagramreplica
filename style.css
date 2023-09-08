@@ -1,0 +1,26 @@
+html{
+     background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#img{
+    position: relative;
+    top: 10px;
+}
+#imgone{
+    position: relative;
+    top: 15px;
+
+}
+.imag{
+    position: relative;
+    left: 270px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
